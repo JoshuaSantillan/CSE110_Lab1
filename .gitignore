@@ -31,5 +31,5 @@
 *.out
 *.app
 
-#Private Files
+#Private File
 PRIVATE.txt
