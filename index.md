@@ -1,4 +1,4 @@
-# Joshua Santillan
+# Joshua Santillan ![img](http://pa1.narvii.com/6913/b3afa63d0454c236910d309b96f576261d8ed73cr1-200-200_00.gif).
 ## Hello, my name is *Josh* I'm *24* and major in *Computer Science* at *UCSD* you are in [this](index.md) file.
 
 # About Me
