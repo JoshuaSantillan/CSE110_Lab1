@@ -29,6 +29,17 @@ require "Programmer"
  4. My favorite topic in Computer Science is Computer Networking, I grew up online so I am fascinating on how the web brings people from all over the world together.
  5. I have a strong background in Computer IT/Administration. 
  6. I have been teaching myself react and have published a personal project [here](https://joshuasantillan.github.io/Monsters_Rolodex_React/). 
+My favorite piece of code from this project was this search component:
+```
+export const SearchBox = ({placeholder,handleChange}) => (
+    <input 
+    className = 'search'
+    type ='search' 
+    placeholder = {placeholder} // make it dynamic
+    //  can console .log a second param below because  second agument to call state right away since it is asyncronous <--- spelling?
+    onChange = {handleChange}
+/>
+```
 
 The goals I've made and accomplished so far in life are:
 - [x] ~~Graduate High School~~
@@ -40,6 +51,8 @@ The goals I've made and accomplished so far in life are:
 - [x] ~~Meet new friends~~
 - [x] ~~Take a software engineering class~~
 
+So far, my favorite thing from week one is the lecture slide that states:
+> Attitude First: You must want to be a better programmer
 
 Pictures
 All the core Markdown constructs in GitHub Flavored Markdown (Links to an external site.)
