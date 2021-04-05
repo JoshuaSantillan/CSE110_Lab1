@@ -1,4 +1,4 @@
-# Joshua Santillan 
+# Joshua Santillan ![img](https://resizeimage.net/viewimg/qMHEyjRFyy0vDUCo/K9PAR/pictureofmyself.jpg)
 ## Hello, my name is *Josh* I'm *24* and major in *Computer Science* at *UCSD* you are in [this](index.md) file.
 
 # About Me
@@ -55,7 +55,7 @@ So far, my favorite thing from week one is the lecture slide that states:
 > Attitude First: You must want to be a better programmer
 
 
-![img](https://media3.giphy.com/media/c4KWfzR9xuGQ0/200.gif).
+![img](https://media3.giphy.com/media/c4KWfzR9xuGQ0/200.gif)
 
 
 Pictures
