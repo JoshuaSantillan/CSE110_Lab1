@@ -1,5 +1,5 @@
 # Joshua Santillan
-## Hello, my name is *Josh* I'm *24* and major in *Computer Science* at *UCSD* you are in [this](.) repository.
+## Hello, my name is *Josh* I'm *24* and major in *Computer Science* at *UCSD* you are in [this](~/) repository.
 
 # About Me
 ## Myself as a person:
