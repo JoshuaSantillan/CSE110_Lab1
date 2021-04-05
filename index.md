@@ -56,4 +56,4 @@ So far, my favorite thing from week one is the lecture slide that states:
 
 ![img](https://media3.giphy.com/media/c4KWfzR9xuGQ0/200.gif)
 
-# Josh's [Github](https://github.com/JoshuaSantillan)
+[Josh's Github](https://github.com/JoshuaSantillan)
