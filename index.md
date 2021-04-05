@@ -1,5 +1,5 @@
 # ![img](https://cdn.discordapp.com/attachments/821089749421785128/828479382539599932/pictureofmyself_1.jpg) Joshua Santillan
-## Hello, my name is *Josh* I'm *24* and major in *Computer Science* at *UCSD* you are reading from [this](index.md) file.
+## Hello, my name is [*Josh*](#About-Me) I'm *24* and major in *Computer Science* at *UCSD* you are reading from [this](index.md) file.
 
 # About Me
 ## Myself as a person:
@@ -57,7 +57,7 @@ So far, my favorite thing from week one is the lecture slide that states:
 
 ![img](https://media3.giphy.com/media/c4KWfzR9xuGQ0/200.gif)
 
-
+[Top of page](#
 Pictures
 All the core Markdown constructs in GitHub Flavored Markdown (Links to an external site.)
 Headings
