@@ -1,5 +1,5 @@
 # ![img](https://cdn.discordapp.com/attachments/821089749421785128/828479382539599932/pictureofmyself_1.jpg) Joshua Santillan
-## Hello, my name is [*Josh*](#About-Me) I'm *24* and major in *Computer Science* at *UCSD* you are reading from [this](index.md) file.
+## Hello, my name is [*Josh*](#About-Me) I'm *24* and major in *Computer Science* at *UCSD* you are reading from [this current file](index.md).
 
 # About Me
 ## Myself as a person:
@@ -57,15 +57,3 @@ So far, my favorite thing from week one is the lecture slide that states:
 ![img](https://media3.giphy.com/media/c4KWfzR9xuGQ0/200.gif)
 
 [Josh's Github](https://github.com/JoshuaSantillan)
-Pictures
-All the core Markdown constructs in GitHub Flavored Markdown (Links to an external site.)
-Headings
-Styling text
-Quoting text
-Quoting code
-External Links
-Section links
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-Ordered and Unordered Lists
-Task lists
-Create a new file called index.md. This is where you'll create your User Page, which should include content that introduces who you are as a programmer and as a person. Your User Page must be made with Markdown. For this assignment, your page must include the following:
