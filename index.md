@@ -16,7 +16,7 @@
 4. Calculus
 
 ## Myself as a Programmer
-require "Programmer"
+require "programmer"
 1. My go to langauge is CPP but I know others such as:
   - JavaScript
   - Python
