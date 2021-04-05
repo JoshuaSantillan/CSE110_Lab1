@@ -66,4 +66,3 @@ Relative links (Link to another .md file or an image in your repo. If linking to
 Ordered and Unordered Lists
 Task lists
 Create a new file called index.md. This is where you'll create your User Page, which should include content that introduces who you are as a programmer and as a person. Your User Page must be made with Markdown. For this assignment, your page must include the following:
-
