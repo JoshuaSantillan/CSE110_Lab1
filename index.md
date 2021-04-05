@@ -1,4 +1,4 @@
-# Joshua Santillan ![img](https://cdn.discordapp.com/attachments/821089749421785128/828479382539599932/pictureofmyself_1.jpg)
+# ![img](https://cdn.discordapp.com/attachments/821089749421785128/828479382539599932/pictureofmyself_1.jpg) Joshua Santillan
 ## Hello, my name is *Josh* I'm *24* and major in *Computer Science* at *UCSD* you are in [this](index.md) file.
 
 # About Me
