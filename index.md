@@ -56,7 +56,7 @@ So far, my favorite thing from week one is the lecture slide that states:
 
 ![img](https://media3.giphy.com/media/c4KWfzR9xuGQ0/200.gif)
 
-[Top of page](#
+[Josh's Github](https://github.com/JoshuaSantillan)
 Pictures
 All the core Markdown constructs in GitHub Flavored Markdown (Links to an external site.)
 Headings
