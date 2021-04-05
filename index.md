@@ -30,7 +30,7 @@ require "programmer"
  5. I have a strong background in Computer IT/Administration. 
  6. I have been teaching myself react and have published a personal project [here](https://joshuasantillan.github.io/Monsters_Rolodex_React/). 
 My favorite piece of code from this project was this search component:
-```
+```jsx
 export const SearchBox = ({placeholder,handleChange}) => (
     <input 
     className = 'search'
