@@ -53,6 +53,8 @@ The goals I've made and accomplished so far in life are:
 
 So far, my favorite thing from week one is the lecture slide that states:
 > Attitude First: You must want to be a better programmer
+
+
 ![img](https://media3.giphy.com/media/c4KWfzR9xuGQ0/200.gif).
 
 
