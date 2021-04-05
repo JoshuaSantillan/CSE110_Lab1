@@ -30,7 +30,15 @@ require "Programmer"
  5. I have a strong background in Computer IT/Administration. 
  6. I have been teaching myself react and have published a personal project [here](https://joshuasantillan.github.io/Monsters_Rolodex_React/). 
 
-
+The goals I've made and accomplished so far in life are:
+- [x] Graduate High School
+- [x] Graduate With my AS Degree
+- [x] Transfer to a 4 year university
+- [ ] Graduate with honors
+- [ ] Get an internship
+- [x] Get involved in research
+- [x] Meet new friends
+- [x] Take a software engineering class
 
 
 Pictures
