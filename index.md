@@ -16,6 +16,7 @@
 4. Calculus
 
 ## Myself as a Programmer
+require "Programmer"
 1. My go to langauge is CPP but I know others such as:
   - JavaScript
   - Python
@@ -28,7 +29,7 @@
  4. My favorite topic in Computer Science is Computer Networking, I grew up online so I am fascinating on how the web brings people from all over the world together.
  5. I have a strong background in Computer IT/Administration. 
  6. I have been teaching myself react and have published a personal project [here](https://joshuasantillan.github.io/Monsters_Rolodex_React/). 
- require "Programmer"
+
 
 
 
