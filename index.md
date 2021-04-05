@@ -1,5 +1,5 @@
 # ![img](https://cdn.discordapp.com/attachments/821089749421785128/828479382539599932/pictureofmyself_1.jpg) Joshua Santillan
-## Hello, my name is [*Josh*](#Josh's-Github) I'm *24* and major in *Computer Science* at *UCSD* you are reading from [this current file](index.md).
+## Hello, my name is [*Josh*](#Josh's) I'm *24* and major in *Computer Science* at *UCSD* you are reading from [this current file](index.md).
 
 # About Me
 ## Myself as a person:
@@ -56,4 +56,4 @@ So far, my favorite thing from week one is the lecture slide that states:
 
 ![img](https://media3.giphy.com/media/c4KWfzR9xuGQ0/200.gif)
 
-# [Josh's Github](https://github.com/JoshuaSantillan)
+# Josh's [Github](https://github.com/JoshuaSantillan)
